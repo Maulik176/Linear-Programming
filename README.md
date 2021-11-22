@@ -23,9 +23,9 @@ sol will give [(14.0, 19.0), (21.0, 43.0)] as output
 
 # References
 
-- Lewis, H. (2015, June 8). Taxicab Geometry . Retrieved October 25,2021, from [Taxicab Geometry](https://www.mathscareers.org.uk/taxicab-geometry/). 
+- Lewis, H. (2015, June 8). _.Taxicab Geometry_. . Retrieved October 25,2021, from [Taxicab Geometry](https://www.mathscareers.org.uk/taxicab-geometry/). 
 
-- Sidhpurwala, H. (2019, March 19). A brief history of cryptography. Red Hat Customer Portal. Retrieved September 27, 2021, from [A Brief History of Cryptography](https://access.redhat.com/blogs/766093/posts/1976023).
+- Bilot, T. (2018). _.The power of linear programming, a real life case study_.. Retrieved October 25,2021, from [The power of linear programming, a real life case study](https://towardsdatascience.com/the-power-of-linear-programming-a-real-life-case-study-6198b2cdb611).
 
 - GeeksforGeeks. (2021, August 4). _Implementation of Affine Cipher_. [Implementation of Affine Cipher](https://www.geeksforgeeks.org/implementation-affine-cipher/)
 
