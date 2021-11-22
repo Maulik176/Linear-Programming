@@ -11,5 +11,6 @@
 - AU2040186 - Jainam Shah	
 
 # Abstract
-- Results 
-- References
+- Linear programming is the process of using mathematical models to solve linear problems in order to maximize or minimize an objective function while keeping certain restrictions in mind.Let’s suppose that we are a very famous e-commerce platform. We have to introduce a new relay point in a city for the shipment of products. Only information we have is the coordinates of all the clients of the company in the city. We need to minimize the distance between each relay point and each client in the city
+# Results 
+# References
