@@ -27,7 +27,7 @@ sol will give [(14.0, 19.0), (21.0, 43.0)] as output
 
 - Bilot, T. (2018). _.The power of linear programming, a real life case study_.. Retrieved October 25,2021, from [The power of linear programming, a real life case study](https://towardsdatascience.com/the-power-of-linear-programming-a-real-life-case-study-6198b2cdb611).
 
-- GeeksforGeeks. (2021, August 4). _Implementation of Affine Cipher_. [Implementation of Affine Cipher](https://www.geeksforgeeks.org/implementation-affine-cipher/)
+- Urdaneta, A. , lberto, R. (February, 1996). _Coordination of directional relay timing using linear programming_. [Coordination of directional relay timing using linear programming](https://www.researchgate.net/publication/3272928_Coordination_of_directional_relay_timing_using_linear_programming)
 
 - Cryptography by means of linear algebra and number theory (n.d.). Retrieved October 20, 2021, from [http://irep.emu.edu.tr:8080/xmlui/bitstream/handle/11129/1420/ElfadelAjaeb.pdf?sequence=1](http://i-rep.emu.edu.tr:8080/xmlui/bitstream/handle/11129/1420/ElfadelAjaeb.pdf?sequence=1)
 
