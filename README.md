@@ -15,11 +15,10 @@
 # Results 
 ```python
 from manhattan import solve
-
 M = [(10, 20), (15, 45), (22, 19), (33, 42)]
 p = 2
 sol = solve(M, p)
-
-# sol = [(14.0, 19.0), (21.0, 43.0)]
 ```
+sol will give [(14.0, 19.0), (21.0, 43.0)] as output
+
 # References
